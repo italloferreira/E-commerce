@@ -1,0 +1,87 @@
+/* Pedido.css */
+
+.pedidoContainer {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 600px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.pedidoContainer h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.listaPedido {
+    list-style: none;
+    padding: 0;
+}
+
+.itemPedido {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+.imgPedido {
+    width: 80px;
+    height: 80px;
+    margin-right: 15px;
+}
+
+.itemPedido h3 {
+    font-size: 18px;
+    margin: 0;
+    color: #444;
+}
+
+.itemPedido p {
+    margin: 5px 0;
+    color: #777;
+}
+
+.total {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #333;
+}
+
+
+.btnEnviarPedido {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.mensagemSucesso {
+    color: green;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.btnCancelarPedido {
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.botoesPedido{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}

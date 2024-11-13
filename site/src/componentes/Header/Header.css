@@ -1,0 +1,236 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    font-family: "Nunito", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#top{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+    background-color: black;
+}
+
+#redes_sociais{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 20%;
+    height: 80px;
+}
+
+
+#cadastro{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 75%;
+    height: 80px; 
+}
+
+#loguin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 3%;
+    color: white;
+    transition: 0.5s;
+    width: 25vh;
+    height: 50px;
+    background-color: black;
+    border-radius: 20px;
+    transition: 0.5s;
+    
+}
+
+#loguin:hover{
+    background-color: red;
+    transition: 0.5s;
+    box-shadow: 1px 1px 1px white;
+}
+
+.camp-what{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+.camp-what:hover{
+    background-color: green;
+    transition: 0.5s;
+}
+
+.camp-insta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+.camp-insta:hover{
+    background-color: purple;
+    transition: 0.5s;
+}
+
+.camp-local{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    transition: 0.5s;
+    margin-right: 10px;
+}
+
+.camp-local:hover{
+    background-color: darkorange;
+    transition: 0.5s;
+}
+
+.camp-carrinho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+.camp-carrinho:hover{
+    background-color: darkred;
+    transition: 0.5s;
+}
+
+#icone_local{
+    transition: 0.5s;
+}
+
+#icone_local:hover{
+    transition: 0.5s;
+}
+
+#icone_whatsapp{
+    transition: 0.5s;
+}
+
+#icone_insta{
+    transition: 0.5s;
+}
+
+#icone_whatsapp:hover{
+    transition: 0.5s;
+}
+
+#icone_insta:hover{
+    transition: 0.5s;
+}
+
+#icone_carrinho{
+    transition: 0.5s;
+}
+
+#icone_carrinho:hover{
+    transition: 0.5s;
+}
+
+/*logo*/
+
+#logo{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo img{
+    display: flex;
+    width: 250px;
+}
+
+/*categorias*/
+
+#categorias{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 5%;
+    background-color: black;
+    width: 90%;
+    height: 70px;
+    position: sticky;
+    top:0;
+    font-size: 18px;
+    z-index: 10;
+    border-radius: 10px;
+}
+
+.camp{
+    width: 150px;
+    height: 50px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    color: white;
+}
+
+.camp:hover{
+    background-color: darkred;
+    transition: 0.5s;
+}
+
+
+
+#produtos ul{
+    display: none;
+    position: absolute;
+    background-color: black;
+    border-radius: 10px;
+}
+
+#produtos ul li{
+    display: none;
+    position: relative;
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#produtos ul li{
+    display: block;
+    width: 150px;
+    text-align: center;
+}
+
+#produtos ul li:hover{
+    display: block;
+    position: relative;
+    cursor: pointer;
+    color: white;
+    background-color: darkred;
+}
+
+#produtos:hover ul{
+    color:red;
+    transition: 1s;
+    display: block;
+}

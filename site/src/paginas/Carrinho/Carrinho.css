@@ -1,0 +1,211 @@
+*{
+    text-decoration: none;
+    font-family: "Nunito", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.Tudocarrinho {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 100vh; 
+    height: auto;      
+    background-color: red;
+    flex-direction: column;
+}
+
+
+.carrinho{
+    width: 900px;
+    height: 100%;
+    background-color: lightgray;
+    border-radius: 20px;
+    border: solid 4px;
+    padding: 20px;
+}
+
+
+.titulo{
+    text-align: center;
+    width: 100%;
+    background-color: darkred;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border-bottom: 2px black solid;
+}
+
+h2 img{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.produto{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 700px;
+    height: 200px;
+    background-color: darkred;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px  black;
+}
+
+.img{
+    display: grid;
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-row-end: 4;
+    margin-top: 20px;
+    object-fit: cover;
+    width: 130px;
+    height: 130px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+
+.nome{
+    display: grid;
+    grid-column-start: 2;
+    grid-row-start: 1;
+    width: 570px;
+    height: 30px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.sifrao{
+    display: grid;
+    grid-column-start: 2;
+    grid-row-start: 2;
+    width: 50px;
+    height: 40px;
+    margin-left: 40%;
+    color: black;
+}
+
+.valor{
+    display: grid;
+    grid-column-start: 2;
+    grid-row-start: 2;
+    width: 100px;
+    height: 40px;
+    margin-left: 250px;
+    text-align: center;
+    color: lightgreen;
+}
+
+.descricao{
+    display: grid;
+    grid-column-start: 2;
+    grid-row-start: 3;
+    width: 500px;
+    height: 40px;
+    text-align: center;
+    color: white;
+}
+
+.quantidadecarrinho{
+    width: 100px;
+}
+
+.botaoCarrinho{
+    display: grid;
+    grid-column-start: 2;
+    grid-row-start: 4;
+    position: relative;
+    width: 570px;
+    height: 40px;
+    text-align: center;
+}
+
+.remover{
+    display: grid;
+    grid-column-start: 2;
+    grid-row-start: 4;
+    position: relative;
+    margin-left: 100px;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    border: 1px black solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.remover:hover{
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+}
+
+.quantidade{
+    display: grid;
+    grid-column-start: 2;
+    grid-row-start: 4;
+    position: relative;
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+label{
+    display: grid;
+    grid-column-start: 2;
+    grid-row-start: 4;
+    position: relative;
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.botoes{
+    display: flex;
+    padding: 20px;
+}
+
+.btnEnviar{
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    border: solid black 3px;
+    font-size: 15px;
+}
+
+.btnEnviar:hover{
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+    border: white;
+}
+
+.btnVoltar{
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    border: solid black 3px;
+    font-size: 15px
+}
+
+.btnVoltar:hover{
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+    border: white;
+}

@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "nome": "chimichurri",
+        "descricao":"bom",
+        "tipo":"tempero",
+        "valor":"10.00",
+        "img": "https://cdn.awsli.com.br/600x450/422/422230/produto/58196509/bdcd12ec16.jpg",
+        "tara": "g"
+    },
+    {
+        "id": 2,
+        "nome": "chimiquente",
+        "descricao":"bom",
+        "tipo":"tempero",
+        "valor":"10.00",
+        "img": "https://cdn.awsli.com.br/600x450/422/422230/produto/58196509/bdcd12ec16.jpg",
+        "tara": "g"
+    },
+    {
+        "id": 3,
+        "nome": "chimilião",
+        "descricao":"bom",
+        "tipo":"tempero",
+        "valor":"10.00",
+        "img": "https://cdn.awsli.com.br/600x450/422/422230/produto/58196509/bdcd12ec16.jpg",
+        "tara": "g"
+    },
+    {
+        "id": 4,
+        "nome": "tempero do chefe",
+        "descricao":"bom",
+        "tipo":"tempero",
+        "valor":"10.00",
+        "img": "https://cdn.awsli.com.br/600x450/422/422230/produto/58196509/bdcd12ec16.jpg",
+        "tara": "g"
+    },
+    {
+        "id": 5,
+        "nome": "lemon pepper",
+        "descricao":"bom",
+        "tipo":"tempero",
+        "valor":"10.00",
+        "img": "https://cdn.awsli.com.br/600x450/422/422230/produto/58196509/bdcd12ec16.jpg",
+        "tara": "g"
+    },
+    {
+        "id": 6,
+        "nome": "colorau caseiro",
+        "descricao":"bom",
+        "tipo":"tempero",
+        "valor":"10.00",
+        "img": "https://cdn.awsli.com.br/600x450/422/422230/produto/58196509/bdcd12ec16.jpg",
+        "tara": "g"
+    },
+    {
+        "id": 7,
+        "nome": "pimenta do reino branca",
+        "descricao":"bom",
+        "tipo":"tempero",
+        "valor":"10.00",
+        "img": "https://cdn.awsli.com.br/600x450/422/422230/produto/58196509/bdcd12ec16.jpg",
+        "tara": "g"
+    },
+    {
+        "id": 8,
+        "nome": "pimenta do reino",
+        "descricao":"bom",
+        "tipo":"tempero",
+        "valor":"10.00",
+        "img": "https://cdn.awsli.com.br/600x450/422/422230/produto/58196509/bdcd12ec16.jpg",
+        "tara": "g"
+    },
+    {
+        "id": 9,
+        "nome": "ervas finas",
+        "descricao":"bom",
+        "tipo":"tempero",
+        "valor":"10.00",
+        "img": "https://cdn.awsli.com.br/600x450/422/422230/produto/58196509/bdcd12ec16.jpg",
+        "tara": "g"
+    },
+    {
+        "id": 10,
+        "nome": "alho trirurado",
+        "descricao":"bom",
+        "tipo":"pimenta",
+        "valor":"10.00",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzC4V_nh7u58nVHMvDlFhAdsLD2Iu0PXsn1A&s",
+        "tara": "Un"
+    },
+    {
+        "id": 11,
+        "nome": "alho fatiado",
+        "descricao":"bom",
+        "tipo":"pimenta",
+        "valor":"10.00",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzC4V_nh7u58nVHMvDlFhAdsLD2Iu0PXsn1A&s",
+        "tara": "Un"
+    },
+    {
+        "id": 12,
+        "nome": "alho frito",
+        "descricao":"bom",
+        "tipo":"pimenta",
+        "valor":"10.00",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzC4V_nh7u58nVHMvDlFhAdsLD2Iu0PXsn1A&s",
+        "tara": "Un"
+    },
+    {
+        "id": 13,
+        "nome": "pimenta calabresa",
+        "descricao":"bom",
+        "tipo":"pimenta",
+        "valor":"10.00",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzC4V_nh7u58nVHMvDlFhAdsLD2Iu0PXsn1A&s",
+        "tara": "Un"
+    },
+    {
+        "id": 14,
+        "nome": "salsa desidratada",
+        "descricao":"bom",
+        "tipo":"pimenta",
+        "valor":"10.00",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzC4V_nh7u58nVHMvDlFhAdsLD2Iu0PXsn1A&s",
+        "tara": "Un"
+    },
+    {
+        "id": 15,
+        "nome": "cebolinha deseidratada",
+        "descricao":"bom",
+        "tipo":"pimenta",
+        "valor":"10.00",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzC4V_nh7u58nVHMvDlFhAdsLD2Iu0PXsn1A&s",
+        "tara": "Un"
+    },
+    {
+        "id": 16,
+        "nome": "manjericao",
+        "descricao":"bom",
+        "tipo":"pimenta",
+        "valor":"10.00",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzC4V_nh7u58nVHMvDlFhAdsLD2Iu0PXsn1A&s",
+        "tara": "Un"
+    },
+    {
+        "id": 17,
+        "nome": "manjerona",
+        "descricao":"bom",
+        "tipo":"pimenta",
+        "valor":"10.00",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzC4V_nh7u58nVHMvDlFhAdsLD2Iu0PXsn1A&s",
+        "tara": "Un"
+    },
+    {
+        "id": 18,
+        "nome": "tomate seco flocos",
+        "descricao":"bom",
+        "tipo":"pimenta",
+        "valor":"10.00",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzC4V_nh7u58nVHMvDlFhAdsLD2Iu0PXsn1A&s",
+        "tara": "Un"
+    }
+]

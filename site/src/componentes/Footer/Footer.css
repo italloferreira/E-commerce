@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+
+footer {
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    height: 42vh;
+}
+
+footer img {
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px; 
+}
+
+
+.ins {
+    color: gray;
+    font-size: 1.5rem; 
+    margin-bottom: 10px; 
+}
+
+
+.dados {
+    display: flex;
+    justify-content: center;
+    gap: 10px; 
+    margin-bottom: 20px; 
+}
+
+.dados p {
+    color: white;
+}
+
+
+.seila {
+    color: gray;
+    font-size: 1rem; 
+}

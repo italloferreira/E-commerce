@@ -1,0 +1,89 @@
+.adm {
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .tabela {
+    width: 95%;
+    border-collapse: collapse; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .tabela th, .tabela td {
+    padding: 12px 15px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  .tabela th {
+    background-color: darkred;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .tabela td {
+    background-color: #f9f9f9;
+  }
+  
+  .tabela tr:nth-child(even) td {
+    background-color: #f2f2f2;
+  }
+  
+  .tabela tr:hover td {
+    background-color: #f1f1f1;
+    cursor: pointer;
+  }
+  
+  
+  .tabela thead {
+    background-color: #333;
+    color: white;
+  }
+  
+  .tabela tr:last-child td {
+    border-bottom: none; 
+  }
+  
+  .tabela td, .tabela th {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+  }
+
+.formadm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: darkred;
+    width: 30%;
+    border-radius: 20px;
+    height:40vh ;
+    margin-bottom: 20px;
+    height: 100%;
+    padding: 10px;
+}
+
+.inputadm{
+    background-color: white;
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 20px;
+    width: 90%;
+    height: 50px;
+    color: black;
+    border: 0;
+}
+
+.butaoadm{
+    background-color: lightgray;
+    width: 90%;
+    height: 50px;
+    border: 0;
+    border-radius: 20px;
+    margin-top: 20px;
+}

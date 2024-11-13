@@ -1,0 +1,72 @@
+*{
+    text-decoration: none;
+    font-family: "Nunito", sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.Tudo{
+   background-image: linear-gradient(white, red 20%, black);
+   height: 640px;
+}
+
+.forms-criarconta{
+    background-color: rgba(0, 0, 0, 80%);
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+}
+
+.input-criarconta{
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+}
+
+
+.button-criarconta{
+    width: 100%;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 17px;
+    color: black;
+    background-color: white;
+    transition: 0.5s;
+    border: none;
+    margin-top: 10px;
+}
+
+.button-criarconta:hover{
+    color: white;
+    background-color: red;
+}
+
+.btn-voltar{
+    color: white;
+}
+
+.btn-voltar:hover{
+    color: red;
+}
+
+fieldset{
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.nome-criarconta{
+    font-size: 15px;
+}
+
+
+
